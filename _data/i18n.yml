@@ -25,7 +25,7 @@ en: &en
   show_comments: 'Show Comments'
   show_license: 'Show License'
   tags: 'Tags'
-  theme_info: '<p><small>梵低光影 Copyright © 2022 </small></p>'
+  theme_info: '<p><small> Copyright © 2022 梵低光影. All Rights Reserved. </small></p>'
   view: 'View'
 en-us:
   <<: *en
@@ -65,7 +65,7 @@ zh: &zh
   show_comments: '显示评论'
   show_license: '显示许可证'
   tags: '文章标签'
-  theme_info: '<p><small>梵低光影 Copyright © 2022 </small></p>'
+  theme_info: '<p><small> Copyright © 2022 梵低光影. All Rights Reserved. </small></p>'
   view: '查阅'
 zh-cn:
   <<: *zh
