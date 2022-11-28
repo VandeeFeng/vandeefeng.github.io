@@ -218,28 +218,6 @@
         }
     }
 
-    blockquote {
-        overflow: auto;
-
-        padding: 6px 18px;
-
-        border: 1px dashed $color-box-border;
-        border-left: 8px solid $color-box-border;
-        background-color: $color-inline-code-background;
-
-        p {
-            margin: 12px 0 !important;
-        }
-
-        dl,
-        ol,
-        ul {
-            margin-top: 0;
-            margin-bottom: 0;
-            padding: 8px 24px;
-        }
-    }
-
     .center-block {
         display: block;
 
