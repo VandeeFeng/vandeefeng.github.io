@@ -139,7 +139,7 @@
     blockquote,
     figure,
     .highlighter-rouge {
-        margin: 6px; // Margin for all code blocks.
+        margin: 1px; // Margin for all code blocks.
     }
 
     // Inline code blocks.
@@ -223,8 +223,8 @@
 
         padding: 6px 18px;
 
-        border-left: 4px solid $color-inline-code-background;
-        color: $color-box-border;
+        border-left: 4px solid #5CC61E;
+        color:#777777;
 
         p {
             margin: 12px 0 !important;
