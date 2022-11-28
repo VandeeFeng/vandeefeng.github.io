@@ -224,11 +224,11 @@
         padding: 6px 18px;
 
         border: 1px dashed $color-box-border;
-        border-left: 6px solid $color-box-border;
-        background-color:transparent;
+        border-left: 4px solid $color-box-border;
+        background-color: $color-text;
 
         p {
-            margin: 0.1px 0 !important;
+            margin: 12px 0 !important;
         }
 
         dl,
@@ -236,7 +236,7 @@
         ul {
             margin-top: 0;
             margin-bottom: 0;
-            padding: 8px 24px;
+            padding: 8px 20px;
         }
     }
 
