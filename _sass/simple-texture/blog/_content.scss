@@ -221,10 +221,10 @@
     blockquote {
         overflow: auto;
 
-        padding: 4px 14px;
+        padding: 6px 6px;
 
-        border: 1px dashed $color-box-border;
         border-left: 4px solid $color-box-border;
+        color: $color-inline-code-background;
 
         p {
             margin: 6px 0 !important;
@@ -235,7 +235,7 @@
         ul {
             margin-top: 0;
             margin-bottom: 0;
-            padding: 6px 18px;
+            padding: 6px 6px;
         }
     }
 
