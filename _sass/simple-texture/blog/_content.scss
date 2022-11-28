@@ -218,6 +218,16 @@
         }
     }
 
+    blockquote {
+        overflow: auto;
+
+        padding: 6px 18px;
+
+        border: 1px dashed $color-box-border;
+        border-left: 8px solid $color-box-border;
+       
+    }
+
     .center-block {
         display: block;
 
