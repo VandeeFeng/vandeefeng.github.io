@@ -221,11 +221,22 @@
     blockquote {
         overflow: auto;
 
-        padding: 6px 18px;
+        padding: 4px 14px;
 
         border: 1px dashed $color-box-border;
-        border-left: 8px solid $color-box-border;
-       
+        border-left: 4px solid $color-box-border;
+
+        p {
+            margin: 6px 0 !important;
+        }
+
+        dl,
+        ol,
+        ul {
+            margin-top: 0;
+            margin-bottom: 0;
+            padding: 6px 18px;
+        }
     }
 
     .center-block {
