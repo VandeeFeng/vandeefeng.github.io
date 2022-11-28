@@ -221,13 +221,13 @@
     blockquote {
         overflow: auto;
 
-        padding: 6px 15px;
+        padding: 6px 8px;
 
-        border-left: 4px solid #dfe2e5;
+        border-left: 4px solid $color-box-border;
         color:#5f5f5f;
 
         p {
-            margin: 12px 0 !important;
+            margin: 6px 0 !important;
         }
 
         dl,
@@ -235,7 +235,7 @@
         ul {
             margin-top: 0;
             margin-bottom: 0;
-            padding: 1px 18px;
+            padding: 1px 10px;
         }
     }
 
